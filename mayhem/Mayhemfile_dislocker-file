@@ -1,0 +1,7 @@
+project: dislocker
+target: dislocker-file
+testsuite:
+  - file://.gitignore
+
+cmds:
+    - cmd: /install/bin/dislocker-file -f @@
