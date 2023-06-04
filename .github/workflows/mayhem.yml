@@ -52,6 +52,7 @@ jobs:
       matrix:
         mayhemfile:
           - mayhem/Mayhemfile_dislocker-bek
+          - mayhem/Mayhemfile_dislocker-file
           - mayhem/Mayhemfile_dis_crypt_new
 
     steps:
